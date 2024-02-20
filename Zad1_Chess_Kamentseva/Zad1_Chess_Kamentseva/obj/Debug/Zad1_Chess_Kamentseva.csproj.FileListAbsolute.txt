@@ -1,0 +1,10 @@
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\bin\Debug\Zad1_Chess_Kamentseva.exe.config
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\bin\Debug\Zad1_Chess_Kamentseva.exe
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\bin\Debug\Zad1_Chess_Kamentseva.pdb
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.csproj.AssemblyReference.cache
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.Properties.Resources.resources
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.csproj.GenerateResource.cache
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.csproj.CoreCompileInputs.cache
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.exe
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.pdb
+C:\Users\Miya_\source\repos\Zad1_Chess_Kamentseva\Zad1_Chess_Kamentseva\obj\Debug\Zad1_Chess_Kamentseva.ChessCoordinates.resources
